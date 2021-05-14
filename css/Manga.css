@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: black;
+    font-family: 'Press Start 2P', cursive;
+    color: whitesmoke;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.primera{
+    margin-left: 50px;
+    width: 90px;
+    height: 90px;
+}
+
+.segunda{
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.Titulo{
+    float: left;
+    margin-right: 4%;
+}
+
+.card{
+    background: rgb(121, 117, 117);
+    font-size: 1.5em;
+}
+
+.Carta1{
+position: absolute;
+top: 26%;
+left: 10%;
+}
+
+.card-body{
+    color: rgb(150, 187, 76);
+    font-size: 0.7em;
+}
+
+.card-title{
+    color: orange;
+}
+
+.Carta2{
+    position: absolute;
+    top: 26%;
+    right: 10%;
+    }
+    
+    .card-body{
+        color: rgb(150, 187, 76);
+        font-size: 0.7em;
+    }
+    
+    .card-title{
+        color: orange;
+    }

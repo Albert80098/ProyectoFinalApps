@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background:  url(../img/fondonigga.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.primera{
+    margin-left: 50px;
+    width: 90px;
+    height: 90px;
+}
+
+.segunda{
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+
+p{
+    font-size: 2em;
+    color: transparent;
+    font-weight: normal;
+    background: -webkit-linear-gradient(orange 10%, orangered 50%, orange 79%);
+    -webkit-background-clip: text;
+}
+
+.Titulo{
+    float: left;
+    margin-right: 4%;
+}
+
+.btn{
+font-size: 6em;  
+}
+
+.Manga{
+    position: absolute;
+    top: 17%;
+    right: 1%;
+}
+
+.Anime{
+    position: absolute;
+    top: 57%;
+    right: 1%;
+}

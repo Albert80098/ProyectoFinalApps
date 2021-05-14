@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: black;
+    font-family: 'Press Start 2P', cursive;
+    color: whitesmoke;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.primera{
+    margin-left: 50px;
+    width: 90px;
+    height: 90px;
+}
+
+.segunda{
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.Titulo{
+    float: left;
+    margin-right: 4%;
+}
+
+.d-block{
+    height: 654px;
+    opacity: .50;
+    
+}
